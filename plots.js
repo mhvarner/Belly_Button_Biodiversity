@@ -61,7 +61,7 @@ function buildCharts(sample) {
         marker: {
           size: sample_values,
           color: otu_ids,
-          colorscale: "Earth"
+          colorscale: "YlOrRd"
         }
       }
     ];
